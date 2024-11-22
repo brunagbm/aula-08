@@ -2,7 +2,8 @@
 
 ## Exercício 1
 
-(o que foi pedido, o que foi feito e linha do codigo)
+- Neste execício foi pedido para que fosse feito uma função para receber um número como parâmetro e ele retornasse um resultado entre "Menor de idade" ou "Maior de idade".
+- Fiz uma função chamada `**verificarIdade`**
 
 ## Exercício 2
 ## Exercício 3
